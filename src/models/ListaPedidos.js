@@ -10,7 +10,7 @@ class ListaPedidos {
         if (!pedido) {
             throw new Error("Pedido não encontrado");
         }
-        return song;
+        return pedido;
     }
 
     deletePedido(id) {
