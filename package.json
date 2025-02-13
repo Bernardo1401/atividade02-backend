@@ -4,9 +4,9 @@
   "description": "Este é um projeto de api desenvolvido no Senai Valinhos com o proposito de aprimorar minhas hablidades em back-end",
   "main": "server.js",
   "scripts": {
-"start": "node src/server.js",
-"dev": "nodemon src/server.js"
-},
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
   "keywords": [
     "senai",
     "ds",
